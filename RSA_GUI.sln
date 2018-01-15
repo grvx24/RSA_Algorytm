@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA_GUI", "RSA_GUI\RSA_GUI.csproj", "{F855356E-B288-4CBA-A10F-43F5D7AA8663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F855356E-B288-4CBA-A10F-43F5D7AA8663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F855356E-B288-4CBA-A10F-43F5D7AA8663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F855356E-B288-4CBA-A10F-43F5D7AA8663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F855356E-B288-4CBA-A10F-43F5D7AA8663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A11BEB-7C28-4327-9783-965792E545DE}
+	EndGlobalSection
+EndGlobal
