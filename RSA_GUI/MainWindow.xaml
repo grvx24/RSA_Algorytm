@@ -59,7 +59,6 @@
                     <TextBox x:Name="PublicKeyTxtBox" HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" Margin="10,317,0,0" FontSize="24"/>
                     <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,277,0,0" Height="40" Width="224" FontSize="24"><Run FontWeight="Bold" Text="Klucz"/></TextBlock>
                     <Button x:Name="ButtonGeneratKey"  BorderThickness="5" Content="Generuj klucze" HorizontalAlignment="Left" VerticalAlignment="Top" Width="768" Margin="10,95,0,0" Height="49" FontSize="24" BorderBrush="Black" FontWeight="Bold" Background="#FF33C8FF" Click="ButtonGeneratKey_Click"/>
-                    <Button x:Name="SaveKeysBtn" Content="Zapisz klucz prywatny" HorizontalAlignment="Left" VerticalAlignment="Top" Width="272" Margin="257,273,0,0" Height="39" Click="SaveKeysBtn_Click"/>
                     <TextBox x:Name="PrivateKeyTxtBox"  HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" Margin="554,317,0,0" FontSize="24"/>
                     <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="554,277,0,0" Height="40" Width="224" FontSize="24"><Run FontWeight="Bold" Text="Klucz"/></TextBlock>
                     <TextBox IsReadOnly="True" x:Name="CipherTxtBox"  HorizontalAlignment="Left" Height="88" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" Margin="10,397,0,0" FontSize="24"/>
